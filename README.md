@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey! I'm Haley.
 
-<!--
-**HalesKB/HalesKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresh-faced developer having just finished Le Wagon's two-month bootcamp. Before that, I was learning through Harvard's free computer science course: CS50. I've been living in and around Tokyo for 6 years now, and I'm currently job hunting!
 
-Here are some ideas to get you started:
+My next project is a perfumery formulation app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my and my wonderful teammates' work below! If you want to know more, why not reach out? c:
+
+[Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
+A classic RPG game with Japanese learning infused into the fight mechanics. Try it at the link below!
+nihongohero.quest
+
+[Adventure Maker](https://github.com/ShinOWfu/AdventureMaker)
+Oldschool choose-your-own-adventure story come alive through AI!
