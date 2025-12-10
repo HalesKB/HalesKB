@@ -1,6 +1,6 @@
 ## Hey! I'm Haley.
 
-I'm a fresh-faced developer having just finished Le Wagon's two-month bootcamp. Before that, I was learning through Harvard's free computer science course: CS50. I've been living in and around Tokyo for 6 years now, and I'm currently job hunting!
+I'm a freshly minted developer having just finished Le Wagon's two-month bootcamp. Before that, I was learning through Harvard's free computer science course: CS50. I've been living in and around Tokyo for 6 years now, and I'm currently job hunting!
 
 My next project is a perfumery formulation app.
 
